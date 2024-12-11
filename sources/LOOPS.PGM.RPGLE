@@ -8,7 +8,7 @@ dcl-proc LOOPS;
 Dcl-pi *n extpgm('LOOPS');
 End-pi;
     dcl-s counter int(10);
-    *inlr = *on;
+    
     for counter = 1 to 10000000;
         diametreCercle(6371);
     endfor;
