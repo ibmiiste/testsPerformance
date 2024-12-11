@@ -1,6 +1,6 @@
 **FREE
 ctl-opt main(LOOPS);
-Dcl-pr diametreCercle extproc('DIAMCERCLE');
+Dcl-pr diametreCercle;
     rayon float(4) const;
 end-pr;
 
