@@ -1,0 +1,8 @@
+{
+  "description": "Tests de performances sur les différents types d'appel en rpg ile",
+  "curlib": "&CURLIB",
+  "postUsrlibl": [
+    "rpgunit",
+    "isphere"
+  ]
+}
